@@ -1,0 +1,8 @@
+/////// Invoice 2 ///////
+Customer Name : ali
+Invoice Date : 12/4
+Total : 13
+Items Count : 1
+Item 1
+Name : tea     Price : 13     Count : 1     Item Total Price : 13
+----------
